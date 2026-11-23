@@ -1,0 +1,29 @@
+# Environment variables (Never commit API keys!)
+.env
+*.env
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Streamlit Local Cache
+.streamlit/
+
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml 

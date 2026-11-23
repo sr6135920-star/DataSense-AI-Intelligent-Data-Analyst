@@ -1,0 +1,22 @@
+Order_ID,Date,Product,Category,Region,Sales,Profit,Quantity,Discount,Customer_Rating
+1001,2024-01-15,Wireless Headphones,Electronics,North,250.0,45.0,2,0.05,4.5
+1002,2024-01-16,Ergonomic Chair,Furniture,West,320.0,75.0,1,0.10,4.8
+1003,2024-01-17,Smart Watch,Electronics,East,180.0,30.0,1,0.00,4.2
+1004,2024-01-18,Coffee Maker,Appliances,South,85.0,15.0,1,0.15,3.9
+1005,2024-01-19,Running Shoes,Apparel,North,120.0,35.0,2,0.10,4.6
+1006,2024-01-20,Bluetooth Speaker,Electronics,West,65.0,12.0,1,0.00,4.0
+1007,2024-01-21,Desk Lamp,Furniture,South,45.0,8.0,3,0.05,
+1008,2024-01-22,Blender,Appliances,East,95.0,22.0,1,0.20,4.1
+1009,2024-01-23,Yoga Mat,Fitness,North,35.0,10.0,2,0.00,4.7
+1010,2024-01-24,Mechanical Keyboard,Electronics,West,140.0,40.0,1,0.05,4.9
+1011,2024-01-25,Office Desk,Furniture,East,450.0,90.0,1,0.10,4.4
+1012,2024-01-26,Water Bottle,Fitness,South,25.0,7.0,4,0.00,4.3
+1013,2024-01-27,Gaming Mouse,Electronics,North,75.0,18.0,1,0.10,
+1014,2024-01-28,Air Fryer,Appliances,West,130.0,28.0,1,0.15,4.8
+1015,2024-01-29,Winter Jacket,Apparel,East,210.0,55.0,1,0.20,4.5
+1016,2024-01-30,Dumbbell Set,Fitness,South,110.0,25.0,2,0.05,4.6
+1017,2024-01-31,Toaster,Appliances,North,40.0,6.0,1,0.00,3.8
+1018,2024-02-01,Bookshelf,Furniture,West,280.0,60.0,1,0.10,4.2
+1019,2024-02-02,Backpack,Apparel,East,80.0,20.0,2,0.05,4.7
+1020,2024-02-03,Tablet,Electronics,South,350.0,80.0,1,0.00,4.6
+1020,2024-02-03,Tablet,Electronics,South,350.0,80.0,1,0.00,4.6
